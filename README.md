@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mshardul69" target="blank"><img src="https://img.shields.io/twitter/follow/mshardul69?logo=twitter&style=for-the-badge" alt="mshardul69" /></a> </p>
 
-- 🔭 I’m currently working on [Baastavik Sampati](https://github.com/AshwinD-coder/Basstavik-Sampati)
+- 🔭 I’m currently working on [Baastavik Sampati](https://github.com/shardz9090/Baastavik-sampati)
 
 - 🌱 I’m currently learning **.net, ML, python, react**
 
