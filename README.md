@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Baastavik Sampati](https://github.com/shardz9090/Baastavik-sampati)
 
-- 🌱 I’m currently learning **Django, ML, python, react**
+- 🌱 I’m currently learning **Django, ML, python, react, CodeIgniter**
 
 - 📫 How to reach me **mshardul69@gmail.com**
 
